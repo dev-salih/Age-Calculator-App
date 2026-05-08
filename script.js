@@ -12,5 +12,7 @@ function calculateAge() {
 
     let today = new Date();
 
-    
+    let d2 = today.getDate();
+    let m2 = today.getMonth();
+    let y2 = today.getFullYear();
 }
