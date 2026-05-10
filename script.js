@@ -37,6 +37,8 @@ function calculateAge() {
         m3 = 11;
         y3--;
     }
+    console.log(y3,m3,d3);
+    
 }
 
 function getDaysInMonth(year, month){
